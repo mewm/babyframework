@@ -1,0 +1,5 @@
+/config/*
+!/config/sample.php
+/data/log/*
+/lib/Baby/vendor/Monolog/
+/lib/Baby/vendor/php-activerecord/
